@@ -23,3 +23,8 @@ button{
 #igual{
     background-color: lightgreen;
 }
+.entrada{
+    width: 36px;
+    border: none ;
+    border-bottom: 2px solid #4a5083;
+}
